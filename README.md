@@ -1,4 +1,4 @@
-# InterNET
+# SharpNET
 ----------------------
 A Light Weight Browser Based On 
 Chromium. Designed For Low End Computers
